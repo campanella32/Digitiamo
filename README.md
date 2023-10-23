@@ -9,7 +9,7 @@ you can run the exploration notebook here:
 
 
 
-## Esplorazione dati :fire:
+## Classificazione dati :fire:
 
  you can run the classification notebook here:
  [link to classification notebook](https://colab.research.google.com/drive/10A89zacX1adsoBtvUIfGDGkAKIGrk3rC?usp=sharing)
